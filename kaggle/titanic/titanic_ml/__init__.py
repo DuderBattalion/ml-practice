@@ -9,4 +9,3 @@ def load_file(path):
             print(os.path.join(dirname, filename))
 
 
-load_file('../files/titanic')
